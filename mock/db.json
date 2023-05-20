@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "email": "d@gmail.com",
+      "password": "656565",
+      "mobile": "1234543212",
+      "address": "chopan",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "abhi",
+      "mobile": "656565",
+      "address": "dfffff",
+      "gender": "male",
+      "id": 3
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "$2a$10$.wcZOOOyvEUpk/Lny.DnO.lh98qc6OCGI1K4g8mVkj4JvwRZDekCO",
+      "id": 4
+    },
+    {
+      "email": "s@gmail.com",
+      "password": "$2a$10$HuLhvF0luGQ3An8e3r5ywOjvTUYEj1Vls0zHY4SSeA15Nx8X08/ty",
+      "id": 5
+    },
+    {
+      "email": "abhi@gmail.com",
+      "password": "$2a$10$fYaOr2ReJ.4DE6ZYx32IouxQN4VSIPfVm9CtOL3JCHcdD6.engwDG",
+      "id": 6
+    },
+    {
+      "email": "abhay@gmail.com",
+      "password": "$2a$10$IRt9LqIh2pPG.WqBvpsQnu7I9AMEXpxb/BRSPsepNbIx8Ca7Wh/RW",
+      "mobile": "8796932128",
+      "address": "lucknow",
+      "gender": "male",
+      "id": 7
+    },
+    {
+      "email": "abhishek@gmail.com",
+      "password": "$2a$10$zj5bpLQGjbzoH7fafebM8eRIXa.zHvSzqtP5eq/EdSPzBIbQRcvGC",
+      "mobile": "8795922128",
+      "address": "lucknow",
+      "gender": "male",
+      "id": 8
+    },
+    {
+      "email": "abhishekt@gmail.com",
+      "password": "$2a$10$P36X98kbO92i3xsxed6sZuPEjU6jMyNDHThNfdeUCmI8xnaPFr91u",
+      "mobile": "8795932128",
+      "address": "lucknow",
+      "gender": "male",
+      "id": 9
+    },
+    {
+      "email": "h@gmail.com",
+      "password": "$2a$10$lMqw9unKzzOGPvKMlH6xYeMHKOfNrzm0Xk592y5bC4u4UUAqhC36S",
+      "mobile": "8765876587",
+      "address": "canada",
+      "gender": "male",
+      "id": 10
+    },
+    {
+      "email": "ram@gmail.com",
+      "password": "$2a$10$OHpCp3TjRvYVeOU.gtXvwOIkDgyUBp01qafNuTbHQ2j0l.huQbQjm",
+      "mobile": "1234567898",
+      "address": "fjvuoerkvf",
+      "gender": "male",
+      "id": 11
+    },
+    {
+      "email": "shyam@gmail.com",
+      "password": "$2a$10$gLUpkCX6UgJmA33LDeCtzOT9awAWeXrLFUr.fbZK4ICpgdp5NmQMG",
+      "mobile": "65543565754",
+      "address": "xcvcbxfhb",
+      "gender": "male",
+      "id": 12
+    }
+  ]
+}
